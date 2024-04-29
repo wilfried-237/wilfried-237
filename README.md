@@ -3,7 +3,11 @@
 
 <!---- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilfried-237" alt="wilfried-237" /></a> </p> --->
 
+<!---- https://rahuldkjain.github.io/gh-profile-readme-generator/ ---->
+
 - 🌱 I’m currently learning **MEARN Stack**
+  
+- 🤝 I’m open to any collaboration
 
 - 💬 Ask me about **REACT & PHP**
 
@@ -11,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://wa.me/237677275992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ulrichwilfried3" height="30" width="40" /></a>
 <a href="https://twitter.com/ulrichwilfried3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ulrichwilfried3" height="30" width="40" /></a>
 <a href="https://fb.com/ulrich.wilfried.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ulrich.wilfried.75" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@wilsweb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wilsweb1" height="30" width="40" /></a>
